@@ -27,8 +27,8 @@ export default {
       seconds: "03",
       status: "work",
       lastStatus: null,
-      WORK_MINUTES: 15,
-      BREAK_MINUTES: 1
+      WORK_MINUTES: 25,
+      BREAK_MINUTES: 5
     }
   },
 
